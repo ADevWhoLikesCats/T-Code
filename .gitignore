@@ -1,2 +1,5 @@
 *.exe
 *.o
+*.sh
+tiny.c
+tiny.cpp
