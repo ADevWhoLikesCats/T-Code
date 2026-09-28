@@ -1,0 +1,18 @@
+{
+  "theme": "vscode-dark",
+  "tab_stop": 4,
+  "lsp": {
+    "c": {
+      "command": "/clang64/bin/clangd",
+      "args": ["--log=error"],
+      "languageId": "c",
+      "extensions": [".c", ".h"]
+    },
+    "cpp": {
+      "command": "/clang64/bin/clangd",
+      "args": ["--log=error"],
+      "languageId": "cpp",
+      "extensions": [".cpp", ".cc", ".cxx", ".hpp"]
+    }
+  }
+}

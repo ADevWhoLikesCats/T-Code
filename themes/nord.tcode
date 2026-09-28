@@ -1,0 +1,15 @@
+{
+  "name": "nord",
+  "comment": "#616E88",
+  "mlcomment": "#616E88",
+  "keyword1": "#81A1C1",
+  "keyword2": "#8FBCBB",
+  "string": "#A3BE8C",
+  "number": "#B48EAD",
+  "match": "#434C5E",
+  "default_fg": "#D8DEE9",
+  "diag_error": "#BF616A",
+  "diag_warning": "#EBCB8B",
+  "diag_info": "#5E81AC",
+  "diag_hint": "#A3BE8C"
+}

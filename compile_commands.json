@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/c/Users/hrish/Downloads/TextEditorlld",
+    "file": "/c/Users/hrish/Downloads/TextEditorlld/kilo.c",
+    "command": "gcc -c kilo.c"
+  }
+]

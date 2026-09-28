@@ -1,0 +1,15 @@
+{
+  "name": "gruvbox",
+  "comment": "#928374",
+  "mlcomment": "#928374",
+  "keyword1": "#FB4934",
+  "keyword2": "#FABD2F",
+  "string": "#B8BB26",
+  "number": "#D3869B",
+  "match": "#504945",
+  "default_fg": "#EBDBB2",
+  "diag_error": "#FB4934",
+  "diag_warning": "#FABD2F",
+  "diag_info": "#83A598",
+  "diag_hint": "#B8BB26"
+}

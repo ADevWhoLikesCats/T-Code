@@ -1,0 +1,15 @@
+{
+  "name": "tokyo-night",
+  "comment": "#565F89",
+  "mlcomment": "#565F89",
+  "keyword1": "#BB9AF7",
+  "keyword2": "#7AA2F7",
+  "string": "#9ECE6A",
+  "number": "#FF9E64",
+  "match": "#33467C",
+  "default_fg": "#C0CAF5",
+  "diag_error": "#F7768E",
+  "diag_warning": "#E0AF68",
+  "diag_info": "#7AA2F7",
+  "diag_hint": "#9ECE6A"
+}

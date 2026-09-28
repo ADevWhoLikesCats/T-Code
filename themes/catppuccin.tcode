@@ -1,0 +1,15 @@
+{
+  "name": "catppuccin",
+  "comment": "#6C7086",
+  "mlcomment": "#6C7086",
+  "keyword1": "#CBA6F7",
+  "keyword2": "#89B4FA",
+  "string": "#A6E3A1",
+  "number": "#FAB387",
+  "match": "#45475A",
+  "default_fg": "#CDD6F4",
+  "diag_error": "#F38BA8",
+  "diag_warning": "#F9E2AF",
+  "diag_info": "#89B4FA",
+  "diag_hint": "#A6E3A1"
+}
